@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Alexis Mendoza Martinez jamesmm98@hotmail.com
+	email = jamesmm98@hotmail.com
+	name = Alexis Mendoza Martinez
